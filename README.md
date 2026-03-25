@@ -1,2 +1,2 @@
 # Tweet-Sentiment-and-Emotion-Detection
-“A web-based tweet analysis system built using Flask that performs sentiment analysis with TextBlob and emotion detection using a deep learning model powered by TensorFlow, providing real-time insights from user input.”
+A web-based tweet analysis system that performs sentiment analysis and emotion detection. It uses NLP for text preprocessing, TextBlob for sentiment classification, and a deep learning model to predict emotions, all deployed through a Flask-based interactive interface.
